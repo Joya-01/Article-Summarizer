@@ -15,7 +15,7 @@ This project uses Natural Language Processing (NLP) techniques to extract key in
 ## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Joya-01/Article-Summarizer.git](https://github.com/Joya-01/Article-Summarizer.git)
+   git clone https://github.com/Joya-01/Article-Summarizer.git
 
 2. **Navigate to the project directory:**
    ```bash
